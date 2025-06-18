@@ -1,13 +1,11 @@
 # Projeto de Análise de Escalonamento de Transações
 
 Este projeto implementa dois algoritmos fundamentais para a análise de escalonamentos de transações concorrentes em sistemas de banco de dados:  O
-Algoritmo de Teste de Seriabilidade por Conflito e o Algoritmo de Teste de Equivalência por Visão.  
-esenvolvido em C, o sistema visa proporcionar uma compreensão prática dos gargalos no processamento de transações e a validação de suas propriedades de concorrência.  
+Algoritmo de Teste de Seriabilidade por Conflito e o Algoritmo de Teste de Equivalência por Visão. desenvolvido em C, o sistema visa proporcionar uma compreensão prática dos gargalos no processamento de transações e a validação de suas propriedades de concorrência.  
 
 ## Objetivo
 
-O principal objetivo é detectar e classificar escalonamentos de transações como serializáveis por conflito ou equivalentes por visão,  
-fornecendo uma ferramenta para compreender o comportamento de transações concorrentes em ambientes de banco de dados.  
+O principal objetivo é detectar e classificar escalonamentos de transações como serializáveis por conflito ou equivalentes por visão, fornecendo uma ferramenta para compreender o comportamento de transações concorrentes em ambientes de banco de dados.  
 
 ## Funcionalidades
 
